@@ -18,8 +18,8 @@ It uses a custom weighting algorithm to map keywords to **MITRE ATT&CK** tactics
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/CyberWatch.git](https://github.com/YOUR_USERNAME/CyberWatch.git)
-    cd CyberWatch
+    git clone https://github.com/mindfliphacks/cyber-watch-v59.git
+    cd cyber-watch-v59
     ```
 
 2.  **Install Dependencies**
